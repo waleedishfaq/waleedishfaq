@@ -45,8 +45,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/waleedcodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="waleedcodes" /></a><a href="https://ko-fi.com/Ko-fi waleedcodes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi waleedcodes" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedcodes&show_icons=true&locale=en&layout=compact" alt="waleedcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedcodes&show_icons=true&locale=en" alt="waleedcodes" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waleedcodes&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waleedcodes&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedcodes&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedcodes&" alt="waleedcodes" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=waleedcodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
